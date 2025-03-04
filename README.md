@@ -20,13 +20,13 @@
   
   <p dir="auto">
     I work as a software developer with many years of experience in building robust web and mobile solutions.
-    Specialized in building scalable applications using modern JavaScript frameworks and Ruby on Rails.
+    Specialized in building scalable SaaS applications using modern JavaScript frameworks and Ruby on Rails.
     Currently focusing on cross-platform development with React Native while maintaining expertise in progressive web apps and server architechture.
   </p>
 
   <ul dir="auto">
     <li>
-        🚀 Full-stack developer with experience in React, React Native, and Ruby on Rails.
+        🚀 Full-stack developer with experience in React, React Native and Ruby on Rails.
     </li>
     <li>💡 Passionate about building scalable web and mobile applications.</li>
     <li>🌱 Always learning and exploring new technologies.</li>
