@@ -19,7 +19,7 @@
   </div>
   
   <p dir="auto">
-    I have worked as a software developer with many years of experience crafting robust web and mobile solutions.
+    I work as a software developer with many years of experience in building robust web and mobile solutions.
     Specialized in building scalable applications using modern JavaScript frameworks and Ruby on Rails.
     Currently focusing on cross-platform development with React Native while maintaining expertise in progressive web apps and server architechture.
   </p>
