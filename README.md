@@ -32,7 +32,7 @@
     <li>🌱 Always learning and exploring new technologies.</li>
   </ul>
   <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto">Connect with me</h2>
+    <h1 class="heading-element" dir="auto">Connect with me</h1>
     <a
       id="user-content-connect-with-me"
       class="anchor"
@@ -56,8 +56,6 @@
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-  <p dir="auto"><br /><br /></p>
-
   <div class="markdown-heading" dir="auto">
     <h1 class="heading-element" dir="auto">Interests</h1>
     <a
