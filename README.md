@@ -84,6 +84,7 @@
     <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="https://rubyonrails.org/"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-black?style=for-the-badge&logo=rubyonrails&logoColor=CC0000"></a>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6"></a>
+    <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql&logoColor=E10098"></a>
   </p>
 
   <h3>Operating Systems & Platforms</h3>
